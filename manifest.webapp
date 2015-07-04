@@ -1,0 +1,12 @@
+{
+  "name": "model_project",
+  "description": "Firefox OS ハンズオン雛型プロジェクト",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "icons": {
+    "128": "/style/icons/html5.png"
+  }
+}
