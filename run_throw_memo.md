@@ -5,7 +5,7 @@
     3. Firefox OS実機接続マニュアル.pdf
     4. model_project配布
 2. 環境構築
-    1. 参加者PCのOS割合を把握
+    1. 参加者PCのOSの割合を把握
     2. adb-helperのインストール
     3. Firefox OS 2.0シュミレータ―のインストール
     4. 実機接続　←　ここで相当、時間がロスすると想定
